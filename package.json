@@ -1,0 +1,19 @@
+{
+  "name": "card-agent",
+  "version": "1.0.0",
+  "description": "This is a project for managing credit cards for its users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagymarci98/node-creditcard-management.git"
+  },
+  "author": "Nagy Marton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagymarci98/node-creditcard-management/issues"
+  },
+  "homepage": "https://github.com/nagymarci98/node-creditcard-management#readme"
+}
